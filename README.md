@@ -16,3 +16,11 @@ Approach for breaking down the DINA work and architecture from content-driven hi
 
 
 The above-mentioned three levels should not be mixed.
+
+<hr/>
+
+# Existing Information Packages
+
+* [collection objects](informations_packages/collection_objects.md)
+
+
