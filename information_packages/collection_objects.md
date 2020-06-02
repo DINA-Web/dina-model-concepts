@@ -1,4 +1,4 @@
-Information Package Definition Template
+Information Package Definition: _Collection Objects_
 =======================
 
 ## General scope of the information package
