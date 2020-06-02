@@ -1,4 +1,4 @@
-Information Package Definition: _put specific name here_
+Information Package Definition: _DNA_
 =======================
 
 ## General scope of the information package

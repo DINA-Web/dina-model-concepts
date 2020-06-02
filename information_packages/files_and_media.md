@@ -1,4 +1,4 @@
-Information Package Definition: _put specific name here_
+Information Package Definition: _Files and Media_
 =======================
 
 ## General scope of the information package
