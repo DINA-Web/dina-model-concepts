@@ -15,3 +15,4 @@ Information Package Definition Template
 
 
 ## Related high-level use cases
+* _(optional: link use case tickets here, to keep this section short)_
