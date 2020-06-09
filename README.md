@@ -21,6 +21,6 @@ The above-mentioned three levels should not be mixed.
 
 # Existing Information Packages
 
-* [collection objects](informations_packages/collection_objects.md)
+* [collection objects](information_packages/collection_objects.md)
 
 
