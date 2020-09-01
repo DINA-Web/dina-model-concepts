@@ -1,6 +1,8 @@
-# DINA Information Packages and Functional Component Description
+# DINA Information Packages, Functional Component Descriptions and Module Descriptions
 
 Approach for breaking down the DINA work and architecture from content-driven high-level concepts (Information Packages) to lower-level functionality-oriented components.
+
+![Three levels of the DINA modelling process](./Modelling-Levels.PNG)
 
 * __[Information Packages](information_packages/)__ make up the information model. Information Packages should be logically standalone, thus independent from other Information Packages.  
   * It addresses the question _Which information lives where?_ 
