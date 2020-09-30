@@ -27,8 +27,8 @@ the material sample is typically collected, and either preserved or destructivel
 * Import Permit Tracking (CFIA for AAFC)
 * Field number or Other IDs of all sorts
 * Substrate type: air, water, soil
-* State of the physical entity: frozen, dead, water, destroyed, contaminated
-* Potentially a History of State of the object with date and link to preparation and protocol
+* State of the physical entity: frozen, dead, water, destroyed, contaminated, consumed, lost
+  * History of State of the physical entity with date (link to preparation and protocol when applicable)
 * Amount? weight/ countable unit (3 parts of something) ( Talk to Falko for more)
 * Protocols to capture something from the collection event
 * Stores the preparation details specific for a Material Sample
