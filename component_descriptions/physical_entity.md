@@ -15,7 +15,7 @@ In natural history collections,
 the material sample is typically collected, and either preserved or destructively processed. (from Darwin Core)
 
 ### Has links to
-* Collection Event(s): a physical entity come from 1 or multiple collecting event
+* Collection Event(s): a physical entity comes from 1 or multiple collecting event
 * Catalogued Object(s): many to many, a catalogued object may consist of several physical entities (with own identities) and physical entity may comprise several collection objects
 * Files and Multimedia
 * Preparations
