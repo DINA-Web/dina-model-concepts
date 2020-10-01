@@ -9,6 +9,8 @@ Component Description: Collecting Event
 
 An action that occurs at some location during some time. (from Darwin Core)
 
+Collecting event is a mandatory component and is always present. It could be empty when the details are unknown.
+
 ### Has links to
 * Files and multimedia
   * Document protocols (includes fieldnotes?) 
