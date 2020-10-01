@@ -39,15 +39,6 @@ An action that occurs at some location during some time. (from Darwin Core)
 * Conditions during the collecting event / at the collection site (e.g. weather conditions)
 * Quantify sampling effort, sample size & unit
 
-
-Derive collection events from existing events (cloning previous events with new timestamps for example and possibly collectors)
-Verbatim- Relate collecting events as different “versions” of the same collecting event (e.g after georeferencing, translation of locality information)
-Place/Site/Environment description at time of event (habitat, geological, other abiotic); attach images/video/sounds
-Record who/what collected or observed (people, defined group/members, sensor, 
-
-
-
-
 ## What does the component __not__ do? (excluded features to avoid misperception / confusion)
 
 
