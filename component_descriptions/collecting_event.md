@@ -22,11 +22,12 @@ An action that occurs at some location during some time. (from Darwin Core)
   * Habitat classifications
   * Country names, water bodies etc
 * Collecting Event (a parent or associated collecting event)
+  * Used when there is discontinuous events in time or space
 
 ### Potential fields
-* Date/time of the event
+* Date/time of the event (must be continious)
   * date/time ranges and partial date/time with uncertainty (e.g. 2020-02/2020-03)
-* Location of the event
+* Location of the event (must be continious)
   * location of the locality specified according to some geodetic reference system, e.g. as latitude/longitude, UTM, decimal degrees, georeferenced polygons, transects, in each case with error estimates
   * process of the determination of the location of the locality - should be represented in terms of the type of procedure performed for the and the agent responsible for the determination
   * altitude specified according to some altitude reference system (can also be negative, i.e. depth for aquatic sites or caves)
