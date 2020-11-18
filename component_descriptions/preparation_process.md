@@ -1,18 +1,18 @@
-Component Description: Preparations
+Component Description: Preparation Process
 =======================
 
 ## Specific scope of the component
 Collection information packages need to cope with preparations for supporting daily work of collection staff handling the collection objects.
 
 ## What does the component do? (envisioned feature set)
-* document the preparation event(s), preparation type(s), preservation methods(s) of physical entity and/or catalogued object
-* document the relation between the state
+* Document the preparation event(s), preparation type(s), preservation methods(s) of physical entity and/or catalogued object
+* Document the relation between the states
 
 ### Definition
 
-Preparations are deliberate changes of the state of physical entities for a certain purpose. The most relevant purposes are: preservation, research, display/exhibition.
+Preparation processes are deliberate changes of the state of physical entities for a certain purpose. The most relevant purposes are: preservation, research, display/exhibition.
 A preparation method could be constructive (e.g. mounting a skeleton), deconstructive (e.g. taking tissue samples) and without influence to the physical entity (e.g. cast from a bone).
-A preparation is a mandatory component for collection objects and is optional for physical entities. When a physical entity becomes a catalogued object it always undergoes a preparation.
+A preparation process is a mandatory component for collection objects and is optional for physical entities. When a physical entity becomes a catalogued object it always undergoes a preparation.
 
 ### Has links to
 * Files and multimedia
