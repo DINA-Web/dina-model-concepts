@@ -18,7 +18,6 @@ Collecting event is a mandatory component and is always present. It could be emp
   * Collecting Permit
 * Agents: participating agents with various roles depending on the nature of the participation
 * Physical entity
-* Catalogued objects
 * Acquisitions ?
 * Controlled vocabularies
   * Habitat classifications
