@@ -43,7 +43,6 @@ A preparation process is a mandatory component for collection objects and is opt
   * ordering of the agents in a given activity must be preserved
   * same agent could have multiple roles in a given preparation event
 * Conditions during the preparation event 
-* state of the entity
 
 ## What does the component __not__ do? (excluded features to avoid misperception / confusion)
 * the links to taxonomy are no links to determination, but taxonomy because preparation methods can be specific to taxnomic groups
