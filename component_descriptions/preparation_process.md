@@ -11,8 +11,8 @@ Collection information packages need to cope with preparations for supporting da
 ### Definition
 
 Preparation processes are deliberate changes of the state of physical entities for a certain purpose. The most relevant purposes are: preservation, research, display/exhibition.
-A preparation method could be constructive (e.g. mounting a skeleton), deconstructive (e.g. taking tissue samples) and without influence to the physical entity (e.g. cast from a bone).
-A preparation process is a mandatory component for collection objects and is optional for physical entities. When a physical entity becomes a catalogued object it always undergoes a preparation.
+A preparation method could be constructive (e.g. mounting a skeleton), destructive (e.g. taking tissue samples) and without influence to the physical entity (e.g. cast from a bone).
+A preparation process is a mandatory component for catalogued objects and is optional for physical entities. When a physical entity becomes a catalogued object it always undergoes a preparation.
 
 ### Has links to
 * Files and multimedia
@@ -33,10 +33,11 @@ A preparation process is a mandatory component for collection objects and is opt
 * method / protocol [metadata and link to document/resource/literature]
   * reference to standardized methods / best practice
   * description
-* Preparation Type [controlled vocab: sheet, vial, pin, cast, plate, filter paper... ]
-* Type substrate [controlled vocab: 70% ethanol, silica, buffer “X”, oil…]
-* Method/protocol 
+* preparation process type [controlled vocab, might be also hierarchical: constructive, destructive, uninfluential, cleaning, sonserving]
+* description / method/protocol
+* resulting reparation type [controlled vocab: sheet, vial, pin, cast, plate, filter paper... ]
 * Conservation status [controlled vocab]
+* Type substrate [controlled vocab: 70% ethanol, silica, buffer “X”, oil…]
 
 * Agents
   * various roles, but mainly person who did the action of preparation
