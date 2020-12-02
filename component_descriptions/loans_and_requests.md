@@ -25,13 +25,16 @@ Collections get requests for loans, visits and digitization. The metadata of the
 * annotations
 
 ### Potential fields
-* requested at
-* requested by
+* requested at (date)
+* requested by (link to agent)
 * status of request (e.g. new, processed, on hold, sent out, returned, re-accessioned ...)
-* deadline for return
 * type of request [loan, digitization, visit, other]
 * purpose / description
-* (Links to linked components):
+* deadline for return
+* returned at (date)
+* issued by (link to (potentially several) agents)
+* notes on state after return
+* (Links to linked other components)
 
 ## What does the component __not__ do? (excluded features to avoid misperception / confusion)
 * discovery mechanisms to search the collection
