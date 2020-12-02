@@ -27,8 +27,8 @@ Collections get requests for loans, visits and digitization. The metadata of the
 ### Potential fields
 * requested at (date)
 * requested by (link to agent)
-* status of request (e.g. new, processed, on hold, sent out, returned, re-accessioned ...)
 * type of request [loan, digitization, visit, other]
+* status of request (e.g. new, processed, on hold, rejected, sent out, returned, re-accessioned ...)
 * purpose / description
 * deadline for return
 * returned at (date)
