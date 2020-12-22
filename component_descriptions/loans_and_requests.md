@@ -1,16 +1,16 @@
-Functional Component: Loans and requests  (transactions?)
+Functional Component: Loans and requests  (transactions?) [JAM: Transactions and Requests?]
 =======================
 
 ## Specific scope of the component
 
 Collections get requests for loans, visits and digitization. The metadata of these requests are generally used for organizing and processing the requests, but they are also used as performance indicators (number of loans per year) and for measuring the demand for digitization as an indicator for priotization in (mass) digitization processes.
-
+[JAM: Should we formally add specimen gifts and exchanges in addition to loans?]
 ## What does the component do? (envisioned feature set)
 
 * store the metadata of requests
    * Who, when, what, how?
-* initiate the a potential change of the objects' availability
-* help communicate between requester and collection staff
+* initiate a potential change of the objects' availability
+* help communicate between requester and collection staff [JAM: Is this process based? E-mail functionality? Linked to next bullet...]
 * document the decisions and interactions
 * track the purpose of request / use case (e.g. exhibition, taxonomic reserach)
 * create documents and labels for shipping
@@ -23,6 +23,7 @@ Collections get requests for loans, visits and digitization. The metadata of the
 * storage
 * file store (e.g. images, stored loan forms, permit documents (e.g. relevant for ABS))
 * annotations
+* taxonomy
 
 ### Potential fields
 * requested at (date)
@@ -30,6 +31,7 @@ Collections get requests for loans, visits and digitization. The metadata of the
 * type of request [loan, digitization, visit, other]
 * status of request (e.g. new, processed, on hold, rejected, sent out, returned, re-accessioned ...)
 * purpose / description
+* count
 * deadline for return
 * returned at (date)
 * issued by (link to (potentially several) agents)
