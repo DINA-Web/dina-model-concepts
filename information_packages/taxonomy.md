@@ -1,4 +1,4 @@
-Information Package Definition: _Determinations_
+Information Package Definition: _Taxonomy_
 =======================
 
 ## General scope of the information package
