@@ -15,7 +15,7 @@ In natural history collections,
 the material sample is typically collected, and either preserved or destructively processed. (from Darwin Core)
 
 ### Has links to
-* Collection Event(s): a physical entity comes from 1 or multiple collecting event
+* Collection Event(s): a physical entity comes from a single collecting event. In case of merging entities to one physical entity, parent-child relations between physical entities (each having a collecting event) would be used.
 * Catalogued Object(s): many to many, a catalogued object may consist of several physical entities (with own identities) and physical entity may comprise several collection objects
 * Files and Multimedia
 * Preparations
