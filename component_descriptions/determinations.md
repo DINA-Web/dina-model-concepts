@@ -10,8 +10,9 @@ A determination is an annotation event that was executed by an agent who (or tha
 ## What does the component do? (envisioned feature set)
 
 This component stores the application of names (usually taxonomic names) to physical entities as a running list of temporally-constrained entries each with one or more agents credited with the action.
-It holds the history of all determinations for the physical entities in order to preserve the applied names or titles of these entities independent from the latest state of knowledge or any other implicit assumptions or interpretation. Changes is taxonomic research that are applied to the physical entities are considered to be new determinations.
-For a comprehensive snapshot of the derivation process of that name references to the source of the namestring assigned may be stored.
+It holds the history of all determinations for the physical entities in order to preserve the applied names or titles of these entities independent from the latest state of knowledge or any other implicit assumptions or interpretation. Changes in taxonomic research that are applied to the physical entities are considered to be new determinations.
+Changes in nomenclature without changes in taxonomic concepts are considered new records in the determination component, but referenced to existing determinations and are assigned the type "nomenclatural updat2).
+For a comprehensive snapshot of the derivation process evidence to the source of the namestring is stored as well.
 
 
 ### Has links to
@@ -29,13 +30,16 @@ For a comprehensive snapshot of the derivation process of that name references t
 ### Potential fields
 * Namestring (label or title): drawn from a big bucket of flat names as aid for data entry, but no cross-reference to a taxonomic concept
 * Determination date
+* Type of determination (e.g. (automated) nomenclatural update, taxonomic revision)
+* Reference to linked determination
+* Evidence
 * Taxonomic status
 * Determiner(s) (verbatim agent string)
 * Verified by (refers to a prior determination)
 * Date verified (refers to a prior determination)
 * Identification qualifier (eg cf., aff., stet!)
 * preferred status (only one determination be preferred to be displayed as "main" label or title in the UI)
- 
+
 
 ## What does the component __not__ do? (excluded features to avoid misperception / confusion)
 * It does not consist of hard, relational links to a source classification
