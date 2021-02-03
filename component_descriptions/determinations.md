@@ -11,7 +11,7 @@ A determination is an annotation event that was executed by an agent who (or tha
 
 This component stores the application of names (usually taxonomic names) to physical entities as a running list of temporally-constrained entries each with one or more agents credited with the action.
 It holds the history of all determinations for the physical entities in order to preserve the applied names or titles of these entities independent from the latest state of knowledge or any other implicit assumptions or interpretation. Changes in taxonomic research that are applied to the physical entities are considered to be new determinations.
-Changes in nomenclature without changes in taxonomic concepts are considered new records in the determination component, but referenced to existing determinations and are assigned the type "nomenclatural updat2).
+Changes in nomenclature without changes in taxonomic concepts are considered new records in the determination component, but referenced to existing determinations and are assigned the type "nomenclatural update").
 For a comprehensive snapshot of the derivation process evidence to the source of the namestring is stored as well.
 
 
