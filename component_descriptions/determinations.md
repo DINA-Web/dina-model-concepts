@@ -42,14 +42,11 @@ For a comprehensive snapshot of the derivation process evidence to the source of
 
 
 ## What does the component __not__ do? (excluded features to avoid misperception / confusion)
-* It does not consist of hard, relational links to a source classification
-* nor does it contain any hierarchical information 
-* nor are scientific names parsed and stored as component parts. 
-* Rather, the relationship is akin to the behaviour of a gazetteer such that the determination does not change with advances in taxonomic research or if an alternate classification is used. 
-* It is a snapshot that contains nothing but a bare (taxonomic) name that the determiner used. 
-* In other words, alteration of names in taxonomic hierarchies does not alter the content or spirit of any determination. 
-* It also does not attempt to reconcile a determination against other concepts, 
-* nor does it attempt to resolve it to currently accepted use.
+It does not consist of hard, relational links to a source classification, nor does it contain any hierarchical information, nor are scientific names parsed and stored as component parts. 
+Rather, the relationship is akin to the behaviour of a gazetteer such that the determination does not change with advances in taxonomic research or if an alternate classification is used. 
+It is a snapshot that contains nothing but a bare (taxonomic) name that the determiner used. 
+In other words, alteration of names in taxonomic hierarchies does not alter the content or spirit of any determination. 
+It also does not attempt to reconcile a determination against other concepts, nor does it attempt to resolve it to currently accepted use.
 
 
 ## Relevant issues
