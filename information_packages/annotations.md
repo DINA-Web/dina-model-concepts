@@ -25,8 +25,8 @@ A lot of data needs can be considered as interpretations from a (personal or sci
 
 ## Related high-level use cases
 This Information Package has conceptual implications at least the for following information packages and functional components:
-* [Determinations](../component_descriptions/determinations.md) within the Information Package on Collection Objects
-* Locality/Georeferences of the [collecting events](../component_descriptions/collecting_event.md) within Information Packages on Collectio Objects and Geography
+* [Determinations](../component_descriptions/determinations.md) within the Information Package on [Collection Objects](/collection_objects.md)
+* Locality/Georeferences of the [collecting events](../component_descriptions/collecting_event.md) within Information Packages on [Collection Objects](/collection_objects.md) and [Geography](/geography.md)
 * The conceptual distinction between (potentially exernally managed) annotating agents and the annotations on agents used and managed internally (e.g. collectors, determiners names)
 * Taxonomy (classification updates, nomenclatural changes…)
 * Biological relationship assertions (e.g. host-parasite, )
