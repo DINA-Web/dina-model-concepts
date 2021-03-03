@@ -16,7 +16,7 @@ They need countable entries of their holdings and a single point for search of o
 * [determinations](component_descriptions/determinations.md) history
 * preparations and [preparation processes](component_descriptions/preparation_process.md)
 * quantity and quality
-* [tranactions and requests](component_descriptions/transactions_and_requests.md)
+* [transactions and requests](component_descriptions/transactions_and_requests.md)
 * availability
 * [storage](component_descriptions/storage.md)
 * metadata on [collecting events](component_descriptions/collecting_event.md)
