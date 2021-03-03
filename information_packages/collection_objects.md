@@ -11,16 +11,16 @@ They need countable entries of their holdings and a single point for search of o
 
 ## Which information should be accommodated in this information package?
 * collection metadata
-* object descriptions
-* management of [physical entities](component_descriptions/physical_entity.md)
-* properties of the physical objects and collection units
+* management of [physical entities](component_descriptions/physical_entity.md) and [catalogued objects](component_descriptions/catalogued_object.md)
+* management of properties / attributes of the physical entities and collection units
+* [determinations](component_descriptions/determinations.md) history
 * preparations and [preparation processes](component_descriptions/preparation_process.md)
 * quantity and quality
+* [transactions and requests](component_descriptions/transactions_and_requests.md)
 * availability
-* storage
+* [storage](component_descriptions/storage.md)
 * metadata on [collecting events](component_descriptions/collecting_event.md)
 * __links__ to related information
-  * determination history
   * agents: owner, collector, determiner, donator, funder
   * provenance
   * research data
@@ -29,7 +29,6 @@ They need countable entries of their holdings and a single point for search of o
   * DNA
   * digitization metadata
   * [collecting events](component_descriptions/collecting_event.md)
-  * transactions
   * ...
 
 ## Which information does __not__ live in this information package?
