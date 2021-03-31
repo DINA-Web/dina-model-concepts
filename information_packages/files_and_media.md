@@ -16,4 +16,3 @@ Files are relevant for any concept within a collection management system because
 
 
 ## Related high-level use cases
-* _(optional: link use case tickets here, to keep this section short)_
