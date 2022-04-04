@@ -1,4 +1,21 @@
-# DINA Information Packages, Functional Component Descriptions and Module Descriptions
+# About models in DINA
+
+The main goal in DINA is creating resources, APIs and software, for collection data management. Models are a core ingredient for the application development for specifying what kind of information is represented. 
+
+Models in DINA serve different processes
+
+The main domain model provides a framework to represent collection object history, including history of objects the collection object is derived from
+DINA assumes a distinctly process / state / event based perspective (e.g., the collection of an object is seen as a collecting process) on collection object history
+the model itself is abstract and is synthetic (i.e. it disregards how software modules as tools to create or update corresponding representations segment its conceptual space)
+It’s basically an entity-relationship (ER) model.
+
+The main model is complemented by models of curatorial processes that change a collection object (physically) or update knowledge about it
+examples: preserving, subsampling, determining, relocating processes
+these are the process-parts of the collection object history
+participants (persons, corporate bodies with roles), material entities at the start and the end of the process
+These models inform the design of user interfaces and software components in general that are used to document curatorial processes and update the representation of the collection object history in the process. Therefore, they are important for the DINA collection management system.
+
+# Segmenting the model space for application development: Information Packages, Functional Component Descriptions and Module Descriptions
 
 Approach for breaking down the DINA work and architecture from content-driven high-level concepts (Information Packages) to lower-level functionality-oriented components.
 
