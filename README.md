@@ -18,7 +18,7 @@ Several models are being developed and used in DINA. They differ with respect to
 The main model is complemented by models of curatorial processes that change a collection object physically or update knowledge about it. These are analytical models of particular types of processes in an object's history, e.g., collecting, accessioning, preserving, subsampling, or relocating an object.
 and of the participants in these processes, e.g., persons, corporate entities, material entities, an object states at the start and the end of a process.
 
-These analytical models inform the design of software components and user interfaces and their implementation in DINA. The also form the basis of mappings to other data models.
+These analytical models inform the design of software components and user interfaces and their implementation in DINA. They also form the basis of mappings to other data models.
 
 <hr/>
 
