@@ -20,6 +20,8 @@ and of the participants in these processes, e.g., persons, corporate entities, m
 
 These analytical models inform the design of software components and user interfaces and their implementation in DINA. The also form the basis of mappings to other data models.
 
+<hr/>
+
 # Segmenting the model space for application development: Information Packages, Functional Component Descriptions and Module Descriptions
 
 Approach for breaking down the DINA work and architecture from content-driven high-level concepts (Information Packages) to lower-level functionality-oriented components.
