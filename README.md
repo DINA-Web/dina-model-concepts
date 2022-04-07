@@ -1,4 +1,28 @@
-# DINA Information Packages, Functional Component Descriptions and Module Descriptions
+# About models in DINA
+
+Natural history collections have multiple roles in education, research and cultural life. To fulfill these roles a multitude of curatorial and managerial tasks in natural history collections need to be performed in an effective manner. Software systems for supporting those tasks have become an indispensable part of natural history collection management.
+
+In that, a **key functionality** of collection management software is the ability to **generate, access and update data representations** about
++ collection objects, their properties and relations to other entities and
++ curatorial, scientific or other activities involving a given object
+
+An additional requirement is that these representations can be accessed computationally and integrated with other data sources.
+
+**Models** are used to **specify the structure of those representations** and are the basis for designing and implementing corresponding software.
+
+Several models are being developed and used in DINA. They differ with respect to their subject domain and their role in application development.
+
+## DINAMO
++ DINAMO is DINA's main conceptual model and specifies how collection items, their properties and relations to other entities are represented on a foundational level. Its main design principle is the [process- and state-based representation of object histories](https://doi.org/10.3897/biss.5.75178). DINAMO is an abstract model, i.e. independent of any specific implementation.
+
+The main model is complemented by models of curatorial processes that change a collection object physically or update knowledge about it, e.g., collecting, accessioning, preserving, subsampling, or relocating an object.
+and of the participants in these processes, e.g., persons, corporate entities, material entities, an object states at the start and the end of a process.
+
+These analytical models inform the design of software components and user interfaces and their implementation in DINA. They also form the basis of mappings to other data models.
+
+<hr/>
+
+# Segmenting the model space for application development: Information Packages, Functional Component Descriptions and Module Descriptions
 
 Approach for breaking down the DINA work and architecture from content-driven high-level concepts (Information Packages) to lower-level functionality-oriented components.
 

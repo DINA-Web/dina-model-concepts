@@ -1,0 +1,50 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="103px" height="124px" viewBox="-0.5 -0.5 103 124" content="&lt;mxfile&gt;&lt;diagram id=&quot;e9jNZREG4kRm0Z-FfHpG&quot; name=&quot;Seite-1&quot;&gt;tZQ9c4MwDIZ/DTvgNknX0LRdch0YOrtYsZ0azBknkP76ykV8XS53HZoJ8ejD1itBxLKye3W8VnsrwERpLLqIPUdpmjyyDT4CufRkHSc9kE4LCppArr+BYEz0pAU0i0BvrfG6XsLCVhUUfsG4c7Zdhh2sWZ5acwlXIC+4uaYfWnjV0026nvgbaKmGk5PVU+8p+RBMnTSKC9vOENtFLHPW+t4quwxMEG/Qpc97ueEdL+ag8n9JSPuEMzcn6i1KVwZTt0Kf0ZTBzKwxKKO21fvnMehJIVh2FkUN+cugkrOnSkA4KEE3dwUNEqfItq3SHvKaF4G0uCbIlC/NEG20rNAusA9wY/UzOA/dzV6TUUFcPbAleHfBEErYkOa0dMkwg3YaYRITU7PxPRDjtDVyrDwJiwZpe2Mw7EroPcfONDc5L2uU7K7qjWsWvM0X+CI0HCpJw5uG7IOtfE43iP9f8DS+n+D4On00v77Zr4ftfgA=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="100" height="40" rx="4" ry="4" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 20px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0px; text-align: center;" data-drawio-colors="color: rgb(0, 0, 0); ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    CollectionObject
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="50" y="24" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    CollectionObject
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="80" width="100" height="40" rx="4" ry="4" fill="#000000" stroke="#000000" pointer-events="all" transform="translate(2,3)" opacity="0.25"/>
+        <rect x="0" y="80" width="100" height="40" rx="4" ry="4" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 100px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0px; text-align: center;" data-drawio-colors="color: rgb(0, 0, 0); ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                MaterialSample
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="50" y="104" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    MaterialSample
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
